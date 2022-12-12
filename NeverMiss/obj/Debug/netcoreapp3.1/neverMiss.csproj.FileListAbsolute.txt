@@ -1,0 +1,290 @@
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.exe
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.deps.json
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.json
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.dev.json
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.dll
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.pdb
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.AssemblyReference.cache
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Form1.resources
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.RemindForm.resources
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.GenerateResource.cache
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfoInputs.cache
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfo.cs
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CoreCompileInputs.cache
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.dll
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.pdb
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.genruntimeconfig.cache
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.HistoryForm.resources
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.SettingForm.resources
+D:\CodeStorage\VSProjects\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Properties.Resources.resources
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.exe
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.deps.json
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.json
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.dev.json
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.dll
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.pdb
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.AssemblyReference.cache
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Form1.resources
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.HistoryForm.resources
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Properties.Resources.resources
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.RemindForm.resources
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.SettingForm.resources
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.GenerateResource.cache
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfoInputs.cache
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfo.cs
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CoreCompileInputs.cache
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.dll
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.pdb
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.genruntimeconfig.cache
+D:\Desktop\.NET\大作业\大作业项目框架\大作业项目框架\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.PopUpForm.resources
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.exe
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.deps.json
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.json
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.dev.json
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.pdb
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.AssemblyReference.cache
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Form1.resources
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.HistoryForm.resources
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.PopUpForm.resources
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Properties.Resources.resources
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.RemindForm.resources
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.SettingForm.resources
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.GenerateResource.cache
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfoInputs.cache
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfo.cs
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CoreCompileInputs.cache
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.pdb
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.genruntimeconfig.cache
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CopyComplete
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\duan\Projects\vs_project\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.AssemblyReference.cache
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.dll
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.pdb
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.exe
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.deps.json
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.json
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.dev.json
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.pdb
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Form1.resources
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.HistoryForm.resources
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.PopUpForm.resources
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Properties.Resources.resources
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.RemindForm.resources
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.SettingForm.resources
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.GenerateResource.cache
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfoInputs.cache
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfo.cs
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CoreCompileInputs.cache
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CopyComplete
+D:\Desktop\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.genruntimeconfig.cache
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.exe
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.deps.json
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.json
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.dev.json
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.pdb
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.AssemblyReference.cache
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Form1.resources
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.HistoryForm.resources
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.PopUpForm.resources
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Properties.Resources.resources
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.RemindForm.resources
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.SettingForm.resources
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.GenerateResource.cache
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfoInputs.cache
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfo.cs
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CoreCompileInputs.cache
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CopyComplete
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.pdb
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.genruntimeconfig.cache
+C:\Users\duan\Downloads\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Interop.IWshRuntimeLibrary.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\Interop.IWshRuntimeLibrary.dll
+C:\Users\duan\Downloads\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.ResolveComReference.cache
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.exe
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.deps.json
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.json
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.dev.json
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.pdb
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\bin\Debug\netcoreapp3.1\Interop.IWshRuntimeLibrary.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.AssemblyReference.cache
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\Interop.IWshRuntimeLibrary.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.ResolveComReference.cache
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Form1.resources
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.HistoryForm.resources
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Properties.Resources.resources
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.RemindForm.resources
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.SettingForm.resources
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.GenerateResource.cache
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfoInputs.cache
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfo.cs
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CoreCompileInputs.cache
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CopyComplete
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.dll
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.pdb
+C:\Users\duan\Projects\github\dotnet-practice\lab06\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.genruntimeconfig.cache
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.exe
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.deps.json
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.json
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.dev.json
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.pdb
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\桌面\lab06 (2)\neverMiss\bin\Debug\netcoreapp3.1\Interop.IWshRuntimeLibrary.dll
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.AssemblyReference.cache
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\Interop.IWshRuntimeLibrary.dll
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.ResolveComReference.cache
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Form1.resources
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.HistoryForm.resources
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Properties.Resources.resources
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.RemindForm.resources
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.SettingForm.resources
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.GenerateResource.cache
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfoInputs.cache
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfo.cs
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CoreCompileInputs.cache
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CopyComplete
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.dll
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.pdb
+D:\桌面\lab06 (2)\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.genruntimeconfig.cache
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.exe
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.deps.json
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.json
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.runtimeconfig.dev.json
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\neverMiss.pdb
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\bin\Debug\netcoreapp3.1\Interop.IWshRuntimeLibrary.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.AssemblyReference.cache
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\Interop.IWshRuntimeLibrary.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.ResolveComReference.cache
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Form1.resources
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.HistoryForm.resources
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.Properties.Resources.resources
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.RemindForm.resources
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.SettingForm.resources
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.GenerateResource.cache
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfoInputs.cache
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.AssemblyInfo.cs
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CoreCompileInputs.cache
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.csproj.CopyComplete
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.dll
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.pdb
+C:\Users\duan\Projects\github\NeverMiss\neverMiss\obj\Debug\netcoreapp3.1\neverMiss.genruntimeconfig.cache
