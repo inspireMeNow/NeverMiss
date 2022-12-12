@@ -121,7 +121,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ${{ env.Wap_Project_Directory }}\bin\Release\netcoreapp3.1\${{ env.Wap_Project_Directory }}.zip
+        asset_path: bin\Release\netcoreapp3.1\${{ env.Wap_Project_Directory }}.zip
         asset_name:  NeverMiss.zip
         asset_content_type: application/zip
 
