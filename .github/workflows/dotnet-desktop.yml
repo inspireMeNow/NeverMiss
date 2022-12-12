@@ -116,4 +116,4 @@ jobs:
       if: startsWith(github.ref, 'refs/tags/')
       with:
         files: |
-          .\${{ env.Wap_Project_Directory }}\${{ env.Wap_Project_Directory }}\bin\Release\netcoreapp3.1\ ${{ env.Wap_Project_Directory }}\bin\Release\netcoreapp3.1\${{ env.Wap_Project_Directory }}.zip
+          .\${{ env.Wap_Project_Directory }}\${{ env.Wap_Project_Directory }}\bin\Release\netcoreapp3.1\${{ env.Wap_Project_Directory }}.zip
