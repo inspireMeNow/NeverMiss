@@ -118,8 +118,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: v-1.${{ github.run_attempt }}
-        release_name:  v-1.${{ github.run_attempt }}
+        tag_name: v1.${{ github.run_attempt }}
+        release_name:  v1.${{ github.run_attempt }}
         draft: true
         prerelease: true
 
