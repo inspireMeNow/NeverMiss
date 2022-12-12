@@ -113,8 +113,8 @@ jobs:
       run: Compress-Archive -Path ${{ env.Wap_Project_Directory }}\bin\Release\netcoreapp3.1\ ${{ env.Wap_Project_Directory }}\bin\Release\netcoreapp3.1\${{ env.Wap_Project_Directory }}.zip
 
     - name: Release
-        uses: softprops/action-gh-release@v1
-        if: startsWith(github.ref, 'refs/tags/')
-        with:
-          files: |
-            .\${{ env.Wap_Project_Directory }}\bin\Release\netcoreapp3.1\${{ env.Wap_Project_Directory }}.zip
+      uses: softprops/action-gh-release@v1
+      if: startsWith(github.ref, 'refs/tags/')
+      with:
+        files: |
+          .\${{ env.Wap_Project_Directory }}\bin\Release\netcoreapp3.1\${{ env.Wap_Project_Directory }}.zip
