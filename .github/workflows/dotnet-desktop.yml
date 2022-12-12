@@ -112,8 +112,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: v${{ github.ref_name }}
-        release_name:  NeverMiss
+        tag_name: ${{ github.ref_name }}
+        release_name:  ${{ github.ref_name }}
         draft: true
         prerelease: false
 
