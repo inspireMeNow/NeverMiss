@@ -103,6 +103,8 @@ jobs:
         Appx_Bundle_Platforms: x86|x64
         Appx_Package_Build_Mode: StoreUpload
         Configuration: ${{ matrix.configuration }}
+    - name: Add AppPackage
+      run: Compress-Archive -Path ${{ env.Wap_Project_Directory }}\bin\Release\netcoreapp3.1\ ${{ env.Wap_Project_Directory }}\bin\Release\netcoreapp3.1\${{ env.Wap_Project_Directory }}.zip
 
     - name: Create Draft Release
       id: create_release
@@ -121,7 +123,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: bin\Release\netcoreapp3.1\${{ env.Wap_Project_Directory }}.zip
+        asset_path: ${{ env.Wap_Project_Directory }}\bin\Release\netcoreapp3.1\${{ env.Wap_Project_Directory }}.zip
         asset_name:  NeverMiss.zip
         asset_content_type: application/zip
 
